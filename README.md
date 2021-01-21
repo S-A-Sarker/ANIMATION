@@ -1,2 +1,2 @@
 # ANIMATION
-![](animation%201/2.jpg | width=100)
+![](animation%201/2.jpg|width=100)
