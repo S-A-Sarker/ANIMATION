@@ -1,8 +1,4 @@
 # ANIMATION
 ## **Animation 1**
 ![](animation%201/2.jpg)
-dfsgsdfgs
-gsdsssgds
-sdgfssgds
-sdfgssgfs
-dgfss
+
