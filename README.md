@@ -7,3 +7,4 @@ project 2 counter
 project 3 reviews
 project 4 navbar
 project 5 sidebar
+6 modal
