@@ -7,7 +7,7 @@ project 2 counter
 project 3 reviews
 project 4 navbar
 project 5 sidebar
-6 modal
+6 modalsdfgs
 7 questions
 8 menu
 9 video
