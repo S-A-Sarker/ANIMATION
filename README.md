@@ -2,4 +2,4 @@
 ## **Animation 1**
 ![](animation%201/2.jpg)
 
-Animation created inspi
+Animation created inspied by 
